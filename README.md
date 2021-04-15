@@ -23,7 +23,7 @@ The objective of the project is to host a simple dynamic php page on an Amazon E
 - Create an EC2 instance and install a web server
 
 
-## SCREENSHOTS
+## WORKFLOW
 ![image](https://user-images.githubusercontent.com/63550437/114916681-b82e3c00-9e42-11eb-8e3d-518f150bc334.png)
 
 ## FINAL OUTPUT
