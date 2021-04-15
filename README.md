@@ -26,6 +26,6 @@ The objective of the project is to host a simple dynamic php page on an Amazon E
 ## SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/63550437/114916681-b82e3c00-9e42-11eb-8e3d-518f150bc334.png)
 
-### FINAL OUTPUT
+## FINAL OUTPUT
 ![image](https://user-images.githubusercontent.com/63550437/114917063-2a068580-9e43-11eb-922b-df04ff1b8ed5.png)
 
